@@ -211,10 +211,3 @@ For very large CSV files (>100MB), you may need to:
 - **v3.0** - Added charts, color coding, and professional formatting
 - **v4.0** - Added KEV analysis and CVE change analysis sections
 
-## Support
-
-For issues or feature requests, contact the NetOps Security Team.
-
----
-
-*Generated reports are intended for internal security review purposes.*
